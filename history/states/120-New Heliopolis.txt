@@ -1,0 +1,27 @@
+state={
+	id=120 #Stolen from the Remnant shortly before game start.
+	name="STATE_120"
+	provinces={
+		3359 5277 6174 7302 9536 13311 13323 13360 13421 13493 
+	}
+	manpower=10000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=RNT
+		add_core_of=SOL
+		owner=SOL
+		victory_points={
+			3359 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 4
+		}
+	}
+}

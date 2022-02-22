@@ -1,0 +1,27 @@
+state={
+	id=114
+	name="STATE_114"
+	provinces={
+		3030 3338 4029 5812 12334 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=CAL
+		add_core_of=MCH
+		owner=MCH
+		victory_points={
+			3030 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 4
+		}
+	}
+}

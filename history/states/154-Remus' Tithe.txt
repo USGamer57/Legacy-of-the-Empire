@@ -1,0 +1,26 @@
+state={
+	id=154
+	name="STATE_154"
+	provinces={
+		1443 3732 4242 4955 5196 5316 6869 7493 8334 9054 9723 13470 13529 13546 13621 13639 13649 13663 13682 13699 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=HLY
+		owner=HLY
+		victory_points={
+			4242 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

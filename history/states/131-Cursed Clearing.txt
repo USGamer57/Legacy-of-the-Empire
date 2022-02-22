@@ -1,0 +1,20 @@
+state={
+	id=131
+	name="STATE_131"
+	provinces={
+		94 2180 2291 2444 4286 4435 4973 5281 5337 6416 8432 9741 9930 13227 13296 13297 13338 13388 13412 13460 13526 13531 13584 13630 13688 13698 13708 13715 13745 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland #it's cursed
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		
+		buildings = {
+			infrastructure = 1
+		}
+	}
+}

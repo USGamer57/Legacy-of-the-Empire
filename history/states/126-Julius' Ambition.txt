@@ -1,0 +1,26 @@
+state={
+	id=126
+	name="STATE_126"
+	provinces={
+		2433 8019 8077 9577 9805 12798 12799 12859 12877 12901 12902 12965 12973 13029 13049 13127 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			8019 20
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 0
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+}

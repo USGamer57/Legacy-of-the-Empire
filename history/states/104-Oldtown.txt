@@ -1,0 +1,27 @@
+state={
+	id=104
+	name="STATE_104"
+	provinces={
+		12481 12506 16705 16706 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=CAL
+		add_core_of=OLD
+		owner=OLD
+		victory_points={
+			12506 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 4
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=157
+	name="STATE_157"
+	provinces={
+		15 2885 4121 5133 6176 6387 6643 6942 7218 7466 7790 8080 9500 14014 14051 14052 14072 14116 14167 14171 14265 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=HLY
+		owner=HLY
+		victory_points={
+			15 5
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+}

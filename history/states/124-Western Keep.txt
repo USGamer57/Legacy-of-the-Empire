@@ -1,0 +1,26 @@
+state={
+	id=124
+	name="STATE_124"
+	provinces={
+		62 2054 3256 3276 3590 5646 9543 13632 13690 13724 13809 13840 13894 13903 13956 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			62 10
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=121
+	name="STATE_121"
+	provinces={
+		2795 7243 8112 8951 9275 9864 13735 13779 13841 13895 13896 14019 
+	}
+	manpower=10000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			7243 50
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 4
+			air_base = 3
+		}
+	}
+}

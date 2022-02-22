@@ -1,0 +1,23 @@
+state={
+	id=142
+	name="STATE_142"
+	provinces={
+		65 1347 2591 4306 4606 5811 5821 7467 7597 7809 8083 8755 9829 9963 14349 14369 14370 14441 14450 14461 14476 14495 14503 14507 14510 14511 
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			65 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+		}
+	}
+}

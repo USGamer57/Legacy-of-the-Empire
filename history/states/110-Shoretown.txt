@@ -1,0 +1,27 @@
+state={
+	id=110
+	name="STATE_110"
+	provinces={
+		262 5370 9973 12600 12724 12778 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=CAL
+		add_core_of=SRT
+		owner=SRT
+		victory_points={
+			262 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 4
+		}
+	}
+}

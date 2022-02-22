@@ -1,0 +1,25 @@
+state={
+	id=141
+	name="STATE_141"
+	provinces={
+		1023 2234 3054 3594 5382 5770 7020 7432 7678 9046 9951 14379 14382 14404 14410 14416 14421 14444 14453 14460 14465 14482 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			1023 5
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

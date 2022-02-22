@@ -1,0 +1,26 @@
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		691 1122 1351 1976 2006 7890 8248 8564 8608 9118 12825 12880 12881 12903 12918 12948 12993 13001 13009 13055 13056 13083 13115 13135 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			691 10
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 5
+		}
+	}
+}

@@ -1,0 +1,25 @@
+state={
+	id=156
+	name="STATE_156"
+	provinces={
+		2595 3491 6412 8199 8567 8678 9176 13704 13739 13760 13795 13819 13883 13915 13944 13945 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history={
+		add_core_of=HLY
+		owner=HLY
+		victory_points={
+			6412 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

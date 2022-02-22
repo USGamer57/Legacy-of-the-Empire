@@ -1,0 +1,25 @@
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		4093 4285 5291 5446 5796 6597 6677 6839 13502 13575 13620 13626 13637 13638 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			5291 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

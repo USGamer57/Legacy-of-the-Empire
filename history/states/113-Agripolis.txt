@@ -1,0 +1,27 @@
+state={
+	id=113
+	name="STATE_113"
+	provinces={
+		4831 8190 12380 12450 12518 12527 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=CAL
+		add_core_of=AGR
+		owner=AGR
+		victory_points={
+			8190 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 4
+		}
+	}
+}

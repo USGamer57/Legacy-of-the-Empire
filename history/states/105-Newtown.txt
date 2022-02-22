@@ -1,0 +1,27 @@
+state={
+	id=105
+	name="STATE_105"
+	provinces={
+		5899 7688 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=CAL
+		add_core_of=NEW
+		owner=NEW
+		victory_points={
+			5899 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 4
+		}
+	}
+}

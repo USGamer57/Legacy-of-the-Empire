@@ -1,0 +1,26 @@
+state={
+	id=149
+	name="STATE_149"
+	provinces={
+		716 1522 3843 6743 6778 6994 7488 7637 8476 9725 9756 10033 10170 12841 12860 12868 12882 12896 12919 12932 12933 13002 13041 13071 13076 13098 13151 13152 13160 13170 13239 
+	}
+	manpower=340000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			716 10
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 0
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

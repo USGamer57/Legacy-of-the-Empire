@@ -1,0 +1,25 @@
+state={
+	id=152
+	name="STATE_152"
+	provinces={
+		607 5901 6401 7653 8487 8963 13922 13923 13924 13925 13967 13991 14013 14022 14030 14034 14044 14067 14093 22125 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=HLY
+		owner=HLY
+		victory_points={
+			607 5
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

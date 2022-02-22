@@ -1,0 +1,26 @@
+state={
+	id=135
+	name="STATE_135"
+	provinces={
+		4437 6172 7121 7649 8950 9303 12800 12801 12802 12803 12878 12879 12947 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history={
+		add_core_of=RNT
+		owner=RNT
+		victory_points={
+			6172 5
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

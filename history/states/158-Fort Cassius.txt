@@ -1,0 +1,26 @@
+state={
+	id=158
+	name="STATE_158"
+	provinces={
+		1194 1296 1521 1820 4675 5854 6913 7175 7684 8119 9826 14215 14238 14255 14282 14292 14306 14317 14318 14319 14338 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history={
+		add_core_of=HLY
+		owner=HLY
+		victory_points={
+			1820 10
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+}

@@ -1,0 +1,30 @@
+capital = 201
+
+#oob = "SCT"
+
+set_technology = {
+}
+
+set_research_slots = 1
+set_war_support = 0.5
+set_stability = 0.5
+
+add_idea = {
+	wolfman_nation
+}
+
+set_politics = {
+	ruling_party = tribalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 0
+	communism = 0
+	democratic = 0
+	tribalism = 90
+	monarchism = 10
+	theocracy = 0
+}

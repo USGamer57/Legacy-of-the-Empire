@@ -1,0 +1,31 @@
+capital = 323
+
+#oob = "SHO" 
+
+set_technology = {
+}
+
+set_research_slots = 1
+set_war_support = 0.5
+set_stability = 0.5
+
+add_idea = {
+	centaur_nation
+}
+
+set_politics = {
+	ruling_party = tribalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 0
+	communism = 0
+	democratic = 20
+	tribalism = 80
+	monarchism = 0
+	theocracy = 0
+	racial_supremacy = 0
+}

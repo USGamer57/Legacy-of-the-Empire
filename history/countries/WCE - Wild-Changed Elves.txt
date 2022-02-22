@@ -1,0 +1,31 @@
+capital = 266
+
+#oob = "WCE" 
+
+set_technology = {
+}
+
+set_research_slots = 1
+set_war_support = 0.8
+set_stability = 0.1
+
+add_idea = {
+	wild_forged_elves
+}
+
+set_politics = {
+	ruling_party = tribalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 10
+	communism = 0
+	democratic = 5
+	tribalism = 70
+	monarchism = 15
+	theocracy = 0
+	racial_supremacy = 0
+}

@@ -1,0 +1,49 @@
+capital = 121
+
+#oob = "RNT"
+
+set_technology = {
+	naval_bomber1 = 1
+	early_bomber = 1
+	gwtank = 1
+	basic_light_tank = 1
+	motorised_infantry = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	infantry_weapons = 1
+	tech_mountaineers
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	CAS1 = 1
+}
+
+# recruit_character = 
+
+set_convoys = 1000
+set_research_slots = 2
+set_war_support = 0.4
+#add_political_power = 0
+set_stability = 0.3
+#add_manpower = 1000000
+
+add_ideas = {
+	human_nation
+}
+
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 25
+	democratic = 0
+	communism = 0
+	neutrality = 0
+	monarchism = 60
+	theocracy = 15
+}

@@ -1,0 +1,46 @@
+capital = 189
+
+#oob = "NWH"
+
+set_technology = {
+	naval_bomber1 = 1
+	early_bomber = 1
+	tech_support = 2
+	tech_engineers = 3
+	tech_recon = 2
+	infantry_weapons = 2
+	tech_mountaineers
+	gw_artillery = 2
+	interwar_antiair = 1
+	early_fighter = 1
+	CAS1 = 1
+}
+
+# recruit_character = 
+
+#set_convoys = 1000
+set_research_slots = 4
+set_war_support = 0.4
+#add_political_power = 0
+set_stability = 0.7
+#add_manpower = 1000000
+
+add_ideas = {
+	dwarven_nation
+}
+
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 0
+	democratic = 0
+	communism = 0
+	neutrality = 20
+	monarchism = 80
+	theocracy = 0
+}

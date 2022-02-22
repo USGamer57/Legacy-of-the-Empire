@@ -1,0 +1,50 @@
+capital = 279
+
+#oob = "MEV"
+
+set_technology = {
+	naval_bomber1 = 1
+	early_bomber = 1
+	gwtank = 1
+	basic_light_tank = 1
+	motorised_infantry = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	infantry_weapons = 1
+	tech_mountaineers
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	CAS1 = 1
+}
+
+# recruit_character = 
+
+set_convoys = 1000
+set_research_slots = 2
+set_war_support = 0.25
+#add_political_power = 0
+set_stability = 0.10
+#add_manpower = 1000000
+
+add_ideas = {
+	elven_nation
+}
+
+set_politics = {
+	ruling_party = racial_supremacy
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 15
+	democratic = 0
+	communism = 0
+	neutrality = 0
+	monarchism = 0
+	theocracy = 10
+	racial_supremacy = 75
+}

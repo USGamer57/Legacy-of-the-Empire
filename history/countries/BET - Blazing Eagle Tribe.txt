@@ -1,0 +1,26 @@
+capital = 191
+
+#oob = "BET"
+
+set_technology = {
+}
+
+set_research_slots = 1
+set_war_support = 1
+set_stability = 0.3
+
+add_idea = {
+	wolfman_nation
+}
+
+set_politics = {
+	ruling_party = tribalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 30
+	tribalism = 70
+}

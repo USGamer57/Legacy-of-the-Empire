@@ -1,0 +1,26 @@
+state={
+	id=176 #Wolfmen living in an abandoned tunnel
+	name="STATE_176"
+	provinces={
+		167 1062 1466 1782 2548 4413 4972 6251 6377 8064 8590 10098 10796 10831 10869 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=ATT
+		owner=ATT
+		victory_points={
+			167 30
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+}

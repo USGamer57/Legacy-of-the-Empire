@@ -1,0 +1,26 @@
+state={
+	id=160
+	name="STATE_160"
+	provinces={
+		34 2015 2753 3625 5115 6287 6569 7068 7116 8324 9207 10283 14122 14145 14146 14166 14179 14195 14213 14241 14247 14259 14291 
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=HLY
+		owner=HLY
+		victory_points={
+			34 5
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

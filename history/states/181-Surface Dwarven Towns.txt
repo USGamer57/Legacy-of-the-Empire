@@ -1,0 +1,26 @@
+state={
+	id=181 #Dwarves
+	name="STATE_181"
+	provinces={
+		4033 4962 5197 6168 7617 10976 10979 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=EXK
+		owner=EXK
+		victory_points={
+			4962 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 6
+			air_base = 4
+		}
+	}
+}

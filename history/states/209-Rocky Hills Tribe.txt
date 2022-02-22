@@ -1,0 +1,27 @@
+state={
+	id=209 #Wolfmen
+	name="STATE_209"
+	provinces={
+		256 257 3311 3716 4070 5529 7642 7843 9148 9753 10108 10451 10460 10580 10588 10606 10614 10624 
+	}
+	manpower=820000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = RHT
+		owner = RHT
+
+		victory_points = {
+			256 15
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

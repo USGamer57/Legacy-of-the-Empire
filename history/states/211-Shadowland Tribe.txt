@@ -1,0 +1,27 @@
+state={
+	id=211 #Wolfmen, but dark magic once unifies region
+	name="STATE_211"
+	provinces={
+		760 3335 3542 3562 5267 6297 6456 7041 7768 8997 9199 10408 10448 10452 10454 10589 10603 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history = {
+		add_core_of = SDW
+		owner = SDW
+
+		victory_points = {
+			2531 20
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 5
+		}
+	}
+}

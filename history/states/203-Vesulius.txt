@@ -1,0 +1,26 @@
+state={
+	id=203 #Solaria
+	name="STATE_203"
+	provinces={
+		3237 4998 5627 6227 8921 9736 10186 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history = {
+		add_core_of=SOL
+		owner=SOL
+
+		victory_points={
+			3237 15
+		}
+		buildings = {
+			infrastructure=3
+			arms_factory=5
+			industrial_complex=4
+			air_base=3
+		}
+	}
+}

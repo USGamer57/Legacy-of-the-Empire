@@ -1,0 +1,26 @@
+state={
+	id=186 #Dwarves
+	name="STATE_186"
+	provinces={
+		237 4281 4308 8341 11324 11361 
+	}
+	manpower=450000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=BLD
+		owner=BLD
+		victory_points={
+			237 10
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 2
+		}
+	}
+}

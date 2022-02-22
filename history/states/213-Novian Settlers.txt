@@ -1,0 +1,27 @@
+state={
+	id=213 #Human Settlers from this setting's America
+	name="STATE_213"
+	provinces={
+		2203 2539 7660 9569 10208 10615 10616 10629 10646 10667 10672 
+	}
+	manpower=350000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = NVS
+		owner = NVS
+
+		victory_points = {
+			2539 30
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 5
+		}
+	}
+}

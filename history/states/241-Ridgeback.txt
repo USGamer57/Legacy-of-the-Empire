@@ -1,0 +1,26 @@
+state={
+	id=241 #UFN
+	name="STATE_241"
+	provinces={
+		161 1375 1526 3646 3761 4066 5888 9542 11255 11294 11479 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history = {
+		add_core_of = UFN
+		owner = UFN
+
+		victory_points = {
+			161 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

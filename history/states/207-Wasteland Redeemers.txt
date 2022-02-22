@@ -1,0 +1,27 @@
+state={
+	id=207 #Wolfmen but human religion crusaders
+	name="STATE_207"
+	provinces={
+		1626 5764 5904 7955 9180 9550 10524 10545 10560 10569 10596 10601 10602 10604 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = WSR
+		owner = WSR
+
+		victory_points = {
+			5904 10
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

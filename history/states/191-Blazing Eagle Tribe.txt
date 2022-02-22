@@ -1,0 +1,25 @@
+state={
+	id=191 #Wolfmen
+	name="STATE_191"
+	provinces={
+		2818 3025 3115 3184 4132 4750 6646 6715 10496 10557 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = BET
+		owner = BET
+		victory_points = {
+			2818 30
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 2
+		}
+	}
+}

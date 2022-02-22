@@ -1,0 +1,25 @@
+state={
+	id=197 #Wolfmen
+	name="STATE_197"
+	provinces={
+		1379 9036 10388 10394 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history = {
+		add_core_of = SSW
+		owner = SSW
+		victory_points = {
+			1379 50
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}
+	}
+}

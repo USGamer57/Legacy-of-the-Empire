@@ -1,0 +1,27 @@
+state={
+	id=208 #Wolfmen
+	name="STATE_208"
+	provinces={
+		306 1388 3721 4118 5293 5549 6713 7738 9458 10450 10480 10491 10497 10507 22101 
+	}
+	manpower=650000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = CWT
+		owner = CWT
+
+		victory_points = {
+			306 10
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

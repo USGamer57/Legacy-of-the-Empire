@@ -1,0 +1,26 @@
+state={
+	id=218 #Wolfmen, but with a non-existing country. Exists to act as a filler for someone to conquer.
+	name="STATE_218"
+	provinces={
+		160 3010 3287 3600 3947 4402 4499 5276 5664 5682 7730 8607 8785 9545 10295 10364 10570 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+
+	history = {
+		add_core_of = TBL
+		owner = TBL
+
+		victory_points = {
+			160 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

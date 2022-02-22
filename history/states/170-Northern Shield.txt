@@ -1,0 +1,17 @@
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		1264 2512 2805 3821 3834 4212 4793 5202 6161 6317 6982 7350 7710 7763 8272 8369 9616 10263 10574 10579 10584 10591 10593 10618 10653 10665 10690 10705 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+	impassable=yes
+
+	history={
+		add_core_of=HBD
+		owner=HBD
+	}
+}

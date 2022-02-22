@@ -1,0 +1,24 @@
+state={
+	id=194 #Wolfmen
+	name="STATE_194"
+	provinces={
+		403 1097 1646 3762 6790 9213 10485 10505 10519 10530 10539 10540 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = DWE
+		owner = DWE
+		victory_points = {
+			403 20
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=215 #Wolfmen
+	name="STATE_215"
+	provinces={
+		3865 4904 6516 6567 6593 8482 8887 10630 10636 10647 10669 10675 10701 10702 10723 10733 10763 10764 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = DBT
+		owner = DBT
+
+		victory_points = {
+			4904 10
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

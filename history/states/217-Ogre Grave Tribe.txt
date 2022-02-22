@@ -1,0 +1,27 @@
+state={
+	id=217 #Wolfmen
+	name="STATE_217"
+	provinces={
+		42 735 3380 3775 5710 6344 7799 9568 9899 10617 10635 10639 10655 10668 10674 10685 10686 10716 10769 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = OGT
+		owner = OGT
+
+		victory_points = {
+			42 20
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

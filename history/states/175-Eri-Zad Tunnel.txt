@@ -1,0 +1,26 @@
+state={
+	id=175 #Dwarves
+	name="STATE_175"
+	provinces={
+		699 2833 6816 7810 10698 10706 10731 10739 10750 10753 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=HBD
+		owner=HBD
+		victory_points={
+			699 10
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+}

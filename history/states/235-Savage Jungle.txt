@@ -1,0 +1,26 @@
+state={
+	id=235 #Jaguarians
+	name="STATE_235"
+	provinces={
+		3442 4194 5305 5609 6361 7510 9329 14623 14633 14651 14693 14705 14708 14731 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history = {
+		add_core_of = FBD
+		owner = FBD
+
+		victory_points = {
+			4194 5
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

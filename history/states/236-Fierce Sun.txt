@@ -1,0 +1,26 @@
+state={
+	id=236 #Jaguarians
+	name="STATE_236"
+	provinces={
+		668 778 3439 4076 4238 7573 7803 14579 14591 
+	}
+	manpower=340000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history = {
+		add_core_of = FBD
+		owner = FBD
+
+		victory_points = {
+			778 5
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

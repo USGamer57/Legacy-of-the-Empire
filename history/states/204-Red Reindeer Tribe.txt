@@ -1,0 +1,27 @@
+state={
+	id=204 #Wolfmen
+	name="STATE_204"
+	provinces={
+		1538 1636 2349 2354 2505 4196 4535 5966 7157 10290 10314 10317 10318 10320 10359 10360 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = RRT
+		owner = RRT
+
+		victory_points = {
+			1636 20
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 2 #Yes, I realize the irony of giving undeveloped primitives airbases.
+		}
+	}
+}

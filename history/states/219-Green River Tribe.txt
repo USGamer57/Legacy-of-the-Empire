@@ -1,0 +1,26 @@
+state={
+	id=219 #Wolfmen
+	name="STATE_219"
+	provinces={
+		634 669 845 858 2457 2835 3015 3133 3166 4190 5420 6923 7651 7771 7905 8958 10347 10368 10395 10468 
+	}
+	manpower=340000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history = {
+		add_core_of = GRT
+		owner = GRT
+
+		victory_points = {
+			634 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

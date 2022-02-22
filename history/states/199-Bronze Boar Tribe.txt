@@ -1,0 +1,25 @@
+state={
+	id=199 #Wolfmen
+	name="STATE_199"
+	provinces={
+		892 927 2955 3437 3964 4924 5240 5755 6320 8317 8938 9436 9520 10417 10425 10439 10441 10449 10458 10464 10466 10482 10499 10520 10541 22104 
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = BBT
+		owner = BBT
+		victory_points = {
+			927 20
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+}

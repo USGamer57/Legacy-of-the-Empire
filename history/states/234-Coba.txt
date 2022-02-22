@@ -1,0 +1,27 @@
+state={
+	id=234 #Jaguarians, Jaguar people that are restricted to a small island and don't do much.
+	name="STATE_234"
+	provinces={
+		764 820 3377 3505 7650 8843 9422 14700 14719 14754 22107 
+	}
+	manpower=1400000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = FBD
+		owner = FBD
+
+		victory_points = {
+			820 50
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+}

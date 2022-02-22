@@ -1,0 +1,26 @@
+state={
+	id=202 #Dwarven Tribe
+	name="STATE_202"
+	provinces={
+		1424 4976 9895 10549 10552 10553 10554 10559 10565 10567 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history = {
+		add_core_of = DRE
+		owner = DRE
+
+		victory_points = {
+			9895 20
+		}
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 4
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=212 #Wolfmen
+	name="STATE_212"
+	provinces={
+		110 2952 5242 5486 6081 6275 6585 8761 8780 10294 10316 10334 10365 10374 10383 10403 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history = {
+		add_core_of = DFT
+		owner = DFT
+
+		victory_points = {
+			110 5
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

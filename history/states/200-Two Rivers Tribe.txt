@@ -1,0 +1,27 @@
+state={
+	id=200 #Wolfmen
+	name="STATE_200"
+	provinces={
+		2507 3116 5261 6436 6812 10119 10463 10481 10513 10544 
+	}
+	manpower=340000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = TRT
+		owner = TRT
+
+		victory_points = {
+			3116 20
+		}
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 3
+		}
+	}
+}

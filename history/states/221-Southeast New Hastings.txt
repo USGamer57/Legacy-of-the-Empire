@@ -1,0 +1,27 @@
+state={
+	id=221 #UFN
+	name="STATE_221"
+	provinces={
+		4086 4133 6046 6924 8847 9891 11219 11242 11248 11287 11301 11302 11333 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history = {
+		add_core_of = UFN
+		owner = UFN
+
+		victory_points = {
+			4086 20
+		}
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 0
+			industrial_complex = 10
+			air_base = 4
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=179 #Dwarves
+	name="STATE_179"
+	provinces={
+		1430 2322 2834 3540 9418 10893 10904 10932 10956 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=DSH
+		owner=DSH
+		victory_points={
+			1430 10
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 2
+		}
+	}
+}

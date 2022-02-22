@@ -1,0 +1,26 @@
+state={
+	id=188 #Dwarves
+	name="STATE_188"
+	provinces={
+		1001 3635 6896 9108 11387 11434 11442 11473 
+	}
+	manpower=640000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=NWH
+		owner=NWH
+		victory_points={
+			3635 10
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 2
+		}
+	}
+}

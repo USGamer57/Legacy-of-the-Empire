@@ -1,0 +1,30 @@
+state={
+	id=54
+	name="STATE_54"
+	provinces={
+		887 4844 5186 5402 5871 7092 8461 11050 11105 11114 22127
+	}
+	manpower=10000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=STL
+		owner=STL
+		victory_points={
+			887 50
+		}
+
+		victory_points={
+			11114 15
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 6
+			industrial_complex = 6
+			air_base = 6
+		}
+	}
+}

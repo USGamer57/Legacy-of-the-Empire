@@ -1,0 +1,24 @@
+state={
+	id=20
+	name="STATE_20"
+	provinces={
+		2022 2388 6895 6959 7189 7475 7616 7812 8524 8789 8898 9331 12701 12900 12945 12971 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+	
+	history = {
+		add_core_of = SOL
+		owner = SOL
+		victory_points = {
+			2022 5
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 2
+		}
+	}
+}

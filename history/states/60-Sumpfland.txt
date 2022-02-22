@@ -1,0 +1,25 @@
+state={
+	id=60
+	name="STATE_60"
+	provinces={
+		416 1731 4139 6465 6804 9389 10122 11128 11153 11181 11201 11207 11250 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=STL
+		owner=STL
+		victory_points={
+			416 5
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=66
+	name="STATE_66"
+	provinces={
+		61 3360 3573 4179 4613 7118 8570 8611 11503 11554 11558 11708 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=VOS
+		owner=VOS
+		victory_points={
+			8570 50
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 6
+			air_base = 4
+		}
+	}
+}

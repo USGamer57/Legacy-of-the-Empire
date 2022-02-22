@@ -1,0 +1,25 @@
+state={
+	id=63
+	name="STATE_63"
+	provinces={
+		128 483 1301 2099 3863 3943 7114 8393 8908 9848 10944 11026 11056 11076 11108 
+	}
+	manpower=450000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history={
+		add_core_of=STL
+		owner=STL
+		victory_points={
+			128 5
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+}

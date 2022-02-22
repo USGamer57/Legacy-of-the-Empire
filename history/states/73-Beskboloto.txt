@@ -1,0 +1,25 @@
+state={
+	id=73
+	name="STATE_73"
+	provinces={
+		474 2204 2683 3495 4864 9023 9540 11510 11526 11566 11586 11622 11686 11690 11727 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=PLM
+		owner=PLM
+		victory_points={
+			474 5
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 1
+		}
+	}
+}

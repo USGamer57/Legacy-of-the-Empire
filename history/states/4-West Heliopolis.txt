@@ -1,0 +1,27 @@
+state={
+	id=4
+	name="STATE_4"
+	provinces={
+		2260 3789 7238 8291 8294 8700 8862 12362 12408 12469 12544 
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+	
+	history = {
+		add_core_of = SOL
+		owner = SOL
+		victory_points = {
+			2260 20
+		}
+		victory_points = {
+			8291 5
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 4
+			industrial_complex = 3
+		}
+	}
+}

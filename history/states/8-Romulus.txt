@@ -1,0 +1,25 @@
+state={
+	id=8
+	name="STATE_8"
+	provinces={
+		3127 4099 5726 6453 7590 8813 8913 10175 10244 12136 12143 12182 12192 12201 12260 12286 12312 12327 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+	
+	history = {
+		add_core_of = SOL
+		owner = SOL
+		victory_points = {
+			7590 20
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 2
+		}
+	}
+}

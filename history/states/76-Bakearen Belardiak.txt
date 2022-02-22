@@ -1,0 +1,26 @@
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		335 751 2747 4016 5275 7098 7122 8081 9190 9654 11766 11857 11898 12018 12078 16691 16693 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=KYZ
+		owner=KYZ
+		victory_points={
+			751 30
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			industrial_complex = 5
+			air_base = 2
+		}
+	}
+}

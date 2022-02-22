@@ -1,0 +1,25 @@
+state={
+	id=27
+	name="STATE_27"
+	provinces={
+		1578 1682 2707 5730 6641 12867 12876 12978 13181 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = LUN
+		add_core_of = SOL
+		owner = LUN
+		victory_points = {
+			1333 10
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		1867 2138 3441 4006 6329 7987 8357 8463 8850 9035 9177 9599 11512 11527 11549 11603 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history={
+		add_core_of=PLM
+		owner=PLM
+		victory_points={
+			2138 10
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 2
+		}
+	}
+}

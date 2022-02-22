@@ -1,0 +1,25 @@
+state={
+	id=29
+	name="STATE_29"
+	provinces={
+		766 1575 2526 3375 4529 6682 8758 9552 11803 11812 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = MRG
+		owner = MRG
+		victory_points = {
+			766 30
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 2
+		}
+	}
+}

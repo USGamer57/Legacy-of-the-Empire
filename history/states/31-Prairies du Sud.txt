@@ -1,0 +1,25 @@
+state={
+	id=31
+	name="STATE_31"
+	provinces={
+		173 1562 2301 3504 4360 5188 8052 11632 11695 11739 11747 11792 11861 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = LAR
+		owner = LAR
+		victory_points = {
+			173 10
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 2
+		}
+	}
+}

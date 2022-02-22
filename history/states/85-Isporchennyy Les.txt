@@ -1,0 +1,25 @@
+state={
+	id=85
+	name="STATE_85"
+	provinces={
+		572 951 1155 1580 4939 6368 7091 7614 9849 11115 11215 11244 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history={
+		add_core_of=PLM
+		owner=PLM
+		victory_points={
+			572 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

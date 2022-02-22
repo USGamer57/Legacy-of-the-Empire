@@ -1,0 +1,28 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		1975 2620 4802 10120 10245 13094 13225 13261 13358 13370 13445 16708 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = megalopolis
+	
+	history = {
+		add_core_of = SOL
+		owner = SOL
+		victory_points = {
+			1975 40
+		}
+		victory_points = {
+			13094 10
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 6
+			air_base = 3
+		}
+	}
+}

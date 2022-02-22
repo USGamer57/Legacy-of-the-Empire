@@ -1,0 +1,27 @@
+state={
+	id=36
+	name="STATE_36"
+	provinces={
+		610 1841 2665 3304 3827 3944 6579 9866 11339 11396 11404 11407 11410 11423 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = WES
+		owner = WES
+
+		victory_points = {
+			610 10
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 1
+		}
+	}
+}

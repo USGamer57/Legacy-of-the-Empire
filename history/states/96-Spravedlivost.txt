@@ -1,0 +1,26 @@
+state={
+	id=96
+	name="STATE_96"
+	provinces={
+		455 1099 1173 2474 3661 4840 7418 7705 10996 11020 11027 11059 11086 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		add_core_of=PLM
+		owner=PLM
+		victory_points={
+			455 15
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+}

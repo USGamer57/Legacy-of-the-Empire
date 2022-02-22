@@ -1,0 +1,26 @@
+state={
+	id=71
+	name="STATE_71"
+	provinces={
+		349 2540 3978 4581 6867 7008 7147 7182 8245 8681 10194 11366 11397 11436 11464 22133 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=PLM
+		owner=PLM
+		victory_points={
+			349 20
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 4
+			air_base = 2
+		}
+	}
+}

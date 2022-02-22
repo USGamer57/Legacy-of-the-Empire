@@ -1,0 +1,26 @@
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		802 1032 1392 2091 5218 5301 6175 8306 10240 10943 10951 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=STL
+		owner=STL
+		victory_points={
+			802 20
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 6
+			air_base = 4
+		}
+	}
+}

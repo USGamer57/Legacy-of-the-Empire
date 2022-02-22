@@ -1,0 +1,26 @@
+state={
+	id=68
+	name="STATE_68"
+	provinces={
+		749 1819 3300 4101 6543 8282 8332 8345 11382 11386 11454 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=VOS
+		owner=VOS
+		victory_points={
+			749 20
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 1
+		}
+	}
+}

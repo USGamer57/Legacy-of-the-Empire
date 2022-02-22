@@ -1,0 +1,25 @@
+state={
+	id=28
+	name="STATE_28"
+	provinces={
+		789 1475 4019 7007 7101 8736 11863 11885 11939 16688 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = ESA
+		owner = ESA
+		victory_points = {
+			11863 30
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 3
+		}
+	}
+}

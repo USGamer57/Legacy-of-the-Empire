@@ -1,0 +1,25 @@
+state={
+	id=69
+	name="STATE_69"
+	provinces={
+		708 1163 1962 3743 5012 6433 8822 9517 11559 11595 11655 11696 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history={
+		add_core_of=VOS
+		owner=VOS
+		victory_points={
+			708 10
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 1
+		}
+	}
+}

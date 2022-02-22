@@ -1,0 +1,28 @@
+
+state={
+	id=41 #Westerland
+	name="STATE_41"
+	provinces={
+		148 2181 5665 6462 11095 11138 11143 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+
+	history = {
+		add_core_of = WES
+		owner = WES
+
+		victory_points = {
+			148 30
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 2
+		}
+	}
+}

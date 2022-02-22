@@ -1,0 +1,22 @@
+state={
+	id=81
+	name="STATE_81"
+	provinces={
+		537 863 985 5006 5279 5384 5794 9715 9793 11259 11284 
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+
+	history={
+		add_core_of=PLM
+		owner=PLM
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

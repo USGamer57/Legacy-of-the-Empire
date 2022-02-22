@@ -1,0 +1,31 @@
+state={
+	id=40
+	name="STATE_40"
+	provinces={
+		1603 3066 3906 5449 5694 5801 5856 9370 10219 10931 10978 10990 11070 16638 
+	}
+	manpower=7500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history = {
+		add_core_of = WES
+		owner = WES
+
+		victory_points = {
+			1603 50
+		}
+
+		victory_points = {
+			10219 15
+		}
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 5
+		}
+	}
+}

@@ -1,0 +1,25 @@
+state={
+	id=80
+	name="STATE_80"
+	provinces={
+		684 1038 1534 1878 3242 4077 5139 5320 5533 11343 11378 11380 11401 11412 11437 11486 
+	}
+	manpower=75000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=PLM
+		owner=PLM
+		victory_points={
+			684 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 1
+		}
+	}
+}

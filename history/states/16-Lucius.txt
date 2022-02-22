@@ -1,0 +1,28 @@
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		1681 2035 2358 3089 4382 4887 6427 8587 9901 10172 12274 12279 12294 12383 12436 12499 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+	
+	history = {
+		add_core_of = SOL
+		owner = SOL
+		victory_points = {
+			3089 15
+		}
+		victory_points = {
+			8587 5
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 4
+			industrial_complex = 3
+			air_base = 2
+		}
+	}
+}

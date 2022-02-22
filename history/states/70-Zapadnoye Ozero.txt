@@ -1,0 +1,26 @@
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		1034 1898 5423 6750 11403 11446 11447 11463 11477 11495 11536 11560 11561 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=PLM
+		owner=PLM
+		victory_points={
+			1034 10
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 2
+		}
+	}
+}

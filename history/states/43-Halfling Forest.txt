@@ -1,0 +1,26 @@
+state={ #halfling
+	id=43
+	name="STATE_43"
+	provinces={
+		4480 4514 5086 5545 6668 7498 9279 10928 10964 10984 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = WES
+		owner = WES
+
+		victory_points = {
+			4480 5
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

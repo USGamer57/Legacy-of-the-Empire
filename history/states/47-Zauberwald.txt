@@ -1,0 +1,25 @@
+state={ #halfling
+	id=47
+	name="STATE_47"
+	provinces={
+		158 841 2172 2561 3753 6761 7094 7489 7845 8203 8256 10867 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history={
+		add_core_of=STL
+		owner=STL
+		victory_points={
+			158 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

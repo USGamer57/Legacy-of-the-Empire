@@ -1,0 +1,26 @@
+state={
+	id=67
+	name="STATE_67"
+	provinces={
+		1604 1676 2848 3904 7447 7468 7478 11360 11405 11461 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=VOS
+		owner=VOS
+		victory_points={
+			1676 20
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 2
+		}
+	}
+}

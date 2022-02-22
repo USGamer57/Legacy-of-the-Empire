@@ -1,0 +1,25 @@
+state={
+	id=24
+	name="STATE_24"
+	provinces={
+		4211 5085 5326 5851 6598 7064 7673 8685 9316 12926 12931 12946 13142 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = LUN
+		add_core_of = SOL
+		owner = LUN
+		victory_points = {
+			4211 5
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+}

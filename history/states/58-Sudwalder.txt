@@ -1,0 +1,25 @@
+state={
+	id=58
+	name="STATE_58"
+	provinces={
+		4254 6408 6451 8325 9267 9336 9346 9438 11411 11445 11484 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		add_core_of=STL
+		owner=STL
+		victory_points={
+			4254 10
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 4
+		}
+	}
+}

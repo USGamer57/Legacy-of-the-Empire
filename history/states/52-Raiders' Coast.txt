@@ -1,0 +1,11 @@
+state={
+	id=52
+	name="STATE_52"
+	provinces={
+		915 2340 3942 6237 9768 11107 11137 11160 16643 16644 22128 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

@@ -1,0 +1,26 @@
+state={
+	id=75
+	name="STATE_75"
+	provinces={
+		3445 3480 3686 3792 7056 11814 11886 11893 11897 16678 16679 16680 16683 16684 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		add_core_of=KYZ
+		owner=KYZ
+		victory_points={
+			3792 20
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			industrial_complex = 3
+			air_base = 2
+		}
+	}
+}

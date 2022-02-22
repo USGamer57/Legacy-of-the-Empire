@@ -1,0 +1,26 @@
+state={
+	id=299 #Elven
+	name="STATE_299"
+	provinces={
+		958 1138 2741 2793 3669 5294 6276 6763 7429 7652 8310 8370 9411 12434 12516 12648 12692 12700 12727 12765 12845 12885 12899 12924 12953 12962 
+	}
+	manpower=760000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=MEV
+		owner=MEV
+		victory_points={
+			958 20
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}
+	}
+}

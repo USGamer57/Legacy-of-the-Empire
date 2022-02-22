@@ -1,0 +1,27 @@
+state={
+	id=249 #UFN
+	name="STATE_249"
+	provinces={
+		917 2362 2499 3201 3751 4113 4635 4719 4867 4950 5142 5649 7245 7363 7828 8464 8989 9043 9276 9922 10261 11968 11979 11999 12032 12064 12091 12118 12129 12167 12168 12175 12176 12181 12226 12227 12235 12241 12284 12345 12358 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = UFN
+		owner = UFN
+
+		victory_points = {
+			4086 20
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 5
+			air_base = 1
+		}
+	}
+}

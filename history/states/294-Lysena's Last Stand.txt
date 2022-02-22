@@ -1,0 +1,26 @@
+state={
+	id=294 #Elves. Where Queen Lysena made her last stand against Lightbringer after the coup. The queen died, but so did Arthanus, Lightbringer's mentor.
+	name="STATE_294"
+	provinces={
+		3289 3993 4324 5353 6446 7748 8331 8594 9980 14091 14131 14175 14178 14220 14221 14224 14225 14269 14276 14301 14311 14316 14337 
+	}
+	manpower=690000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		add_core_of=SNE
+		owner=SNE
+		victory_points={
+			7748 15
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 5
+		}
+	}
+}

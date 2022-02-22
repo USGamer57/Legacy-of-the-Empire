@@ -1,0 +1,27 @@
+state={
+	id=270 #Orcs
+	name="STATE_270"
+	provinces={
+		123 317 591 823 1008 1847 2572 3996 4525 4708 4983 5555 6301 6379 6397 7065 7470 8793 8954 9466 10414 10426 10444 10483 10490 10508 10509 10525 10555 22102 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = BLB
+		owner = BLB
+
+		victory_points = {
+			823 20
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 2
+		}
+	}
+}

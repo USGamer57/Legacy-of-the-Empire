@@ -1,0 +1,27 @@
+state={
+	id=324 #Wolfmen who were cut off from the rest by centaur and orc incursions.
+	name="STATE_324"
+	provinces={
+		176 697 748 1134 1805 1943 3794 4838 4985 6520 6792 7082 8809 11246 11252 11266 11286 11315 
+	}
+	manpower=560000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = LPK
+		owner = LPK
+
+		victory_points = {
+			176 10
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+}

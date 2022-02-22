@@ -1,0 +1,25 @@
+state={
+	id=307 #Elves
+	name="STATE_307"
+	provinces={
+		1049 1151 1243 1540 3139 4336 4645 5598 5650 6045 6248 6931 8309 11636 11746 12000 12150 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history={
+		add_core_of=STE
+		owner=STE
+		victory_points={
+			1151 5
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+}

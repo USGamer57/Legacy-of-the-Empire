@@ -1,0 +1,26 @@
+state={
+	id=321 #Centaurs
+	name="STATE_321"
+	provinces={
+		26 728 869 1520 1592 2094 2259 2287 2654 2758 2831 4187 4801 4821 5080 6068 6409 6925 7164 7281 7863 9184 9378 9658 10590 10611 10631 10662 10679 10682 10689 10703 10707 10710 10751 10780 10806 10808 10826 10864 16633 16634 
+	}
+	manpower=470000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history = {
+		add_core_of = PUG
+		owner = PUG
+
+		victory_points = {
+			26 2
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

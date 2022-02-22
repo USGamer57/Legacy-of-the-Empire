@@ -1,0 +1,26 @@
+state={
+	id=272 #Centaurs
+	name="STATE_272"
+	provinces={
+		365 1856 2403 2490 2717 2855 4330 4447 4709 4736 5350 5800 6601 6873 8412 9221 9297 10209 10858 10879 10898 10927 10939 10948 10958 11014 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history = {
+		add_core_of = SMP
+		owner = SMP
+
+		victory_points = {
+			365 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 0
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=318 #Centaurs
+	name="STATE_318"
+	provinces={
+		239 2210 2928 2981 3656 4289 4433 5165 5444 5581 5690 5723 5752 6609 6774 6969 8491 10573 10650 10651 10696 10732 10744 10767 10786 16629 16632 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+
+	history = {
+		add_core_of = VNG
+		owner = VNG
+
+		victory_points = {
+			239 10
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

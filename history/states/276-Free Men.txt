@@ -1,0 +1,27 @@
+state={
+	id=276
+	name="STATE_276"
+	provinces={
+		795 853 1565 2419 3343 3756 5571 5632 5863 6555 7287 7603 8746 11116 11125 11140 11144 11154 11202 11209 11210 11249 11258 11313 16647 16648 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = FRE
+		owner = FRE
+	
+		victory_points = {
+			2419 20
+		}
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+}

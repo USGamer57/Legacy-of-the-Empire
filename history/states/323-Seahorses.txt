@@ -1,0 +1,26 @@
+state={
+	id=323 #Centaurs who can use boats
+	name="STATE_323"
+	provinces={
+		197 2071 2503 2637 3141 4363 5201 6023 6037 6933 6951 7213 7676 8076 8240 9014 9474 9581 9630 9839 10827 10853 10856 10913 10959 11023 11041 16635 16636 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history = {
+		add_core_of = SHO
+		owner = SHO
+
+		victory_points = {
+			2071 2
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

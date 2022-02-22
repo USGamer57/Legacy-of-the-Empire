@@ -1,0 +1,27 @@
+state={
+	id=317 #Centaurs under Prince Kanton, Xamara's brother, who wish to protect the realm.
+	name="STATE_317"
+	provinces={
+		418 1571 1721 3255 3421 4565 6929 7627 7823 9701 10516 10563 10564 10637 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = XAM
+		owner = XAM
+
+		victory_points = {
+			1721 10
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+}

@@ -1,0 +1,27 @@
+state={
+	id=260 #Orcs
+	name="STATE_260"
+	provinces={
+		555 580 1220 1286 2639 3586 3768 4871 5442 7003 8032 8110 8814 9155 10493 10546 10625 10657 10661 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history = {
+		add_core_of = WBT
+		owner = WBT
+
+		victory_points = {
+			555 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+}

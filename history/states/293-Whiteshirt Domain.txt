@@ -1,0 +1,26 @@
+state={
+	id=293 #Elves. Reward given to Whiteshirts, Lightbringer's paramilitary of thugs.
+	name="STATE_293"
+	provinces={
+		801 1645 3410 5715 5884 7002 9079 9446 14254 14279 14288 14289 14310 14320 14332 14333 14341 14360 14368 14374 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=SNE
+		owner=SNE
+		victory_points={
+			801 5
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+}

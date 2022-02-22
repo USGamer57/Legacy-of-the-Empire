@@ -1,0 +1,26 @@
+state={
+	id=256
+	name="STATE_256"
+	provinces={
+		1678 2628 5445 5480 5857 5987 8322 8422 9355 12293 12368 12457 12526 12612 12699 12712 12733 12762 12763 12838 12856 
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = UFN
+		owner = UFN
+
+		victory_points = {
+			12293 10
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 4
+		}
+	}
+}

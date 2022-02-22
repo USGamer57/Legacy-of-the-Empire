@@ -1,0 +1,25 @@
+state={
+	id=303 #Elves. Democratic.
+	name="STATE_303"
+	provinces={
+		1670 1772 2454 3244 3630 8329 8643 9123 9450 12092 12285 12298 12319 12346 12347 12369 12424 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history={
+		add_core_of=STE
+		owner=STE
+		victory_points={
+			1670 5
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

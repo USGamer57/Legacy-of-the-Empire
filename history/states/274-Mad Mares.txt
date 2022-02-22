@@ -1,0 +1,26 @@
+state={
+	id=274 #Centaurs
+	name="STATE_274"
+	provinces={
+		481 883 920 1345 1452 1665 4290 4377 5945 6127 6324 6694 7037 7202 7389 7571 8656 9561 10839 10868 10884 10899 10916 11005 11078 16630 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+
+	history = {
+		add_core_of = MDM
+		owner = MDM
+
+		victory_points = {
+			920 3
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

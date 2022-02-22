@@ -1,0 +1,15 @@
+state={
+	id=314 #Rampaging ogres kill any chance of any intelligent race settling here.
+	name="STATE_314"
+	provinces={
+		72 85 254 264 307 347 361 468 632 648 661 886 904 1010 1140 1322 1399 1480 1586 1742 1814 1857 1907 2058 2095 2321 2348 2550 2644 2736 3055 3538 3734 3966 4263 4449 4770 4888 5087 5424 5547 6147 6725 6737 7387 7876 8326 8689 9513 9631 9657 10077 10305 10306 10325 10333 10413 10445 10453 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+	impassable = yes
+	history = {
+		
+	}
+}

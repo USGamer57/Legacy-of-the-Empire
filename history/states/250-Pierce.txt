@@ -1,0 +1,26 @@
+state={
+	id=250 #UFN
+	name="STATE_250"
+	provinces={
+		2021 2076 2731 3835 5661 6803 7425 7853 8196 8220 8281 8375 8698 8866 9735 10052 10107 10195 11723 11737 11744 11745 11753 11762 11778 11779 11791 11802 11820 11831 11856 11882 11901 11924 11928 11935 11938 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = UFN
+		owner = UFN
+
+		victory_points = {
+			2021 15
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 0
+			industrial_complex = 4
+		}
+	}
+}

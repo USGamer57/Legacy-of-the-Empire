@@ -1,0 +1,27 @@
+state={
+	id=273
+	name="STATE_273"
+	provinces={
+		1383 2090 2527 3598 4201 5817 6069 6265 7415 7638 8302 8399 10034 10880 10906 10921 10946 10982 11010 11042 11071 11097 16640 
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = PMR
+		owner = PMR
+
+		victory_points = {
+			6069 30
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 4
+		}
+	}
+}

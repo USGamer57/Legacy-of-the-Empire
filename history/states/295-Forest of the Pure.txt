@@ -1,0 +1,26 @@
+state={
+	id=295 #Moon elven forest. Unlike global purification, local purification believes in isolationism instead of conquest. They expell all non-elves.
+	name="STATE_295"
+	provinces={
+		495 1353 2334 2426 6112 7196 7887 9440 9998 12672 12722 12723 12789 12866 12917 12938 12992 13015 13075 13148 13285 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history={
+		add_core_of=MEV
+		owner=MEV
+		victory_points={
+			495 10
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+}

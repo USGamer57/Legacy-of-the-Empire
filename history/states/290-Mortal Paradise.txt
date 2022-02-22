@@ -1,0 +1,26 @@
+state={
+	id=290 #Elven city renamed and turned into a vacation home for party elites.
+	name="STATE_290"
+	provinces={
+		3603 4452 4989 6736 7824 8508 8515 8533 8730 9327 9626 9748 14071 14109 14164 14186 14207 14268 14278 14309 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history={
+		add_core_of=SNE
+		owner=SNE
+		victory_points={
+			6736 10
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 0
+			industrial_complex = 0
+			air_base = 2
+		}
+	}
+}

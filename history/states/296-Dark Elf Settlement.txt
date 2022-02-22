@@ -1,0 +1,26 @@
+state={
+	id=296 #While dark elves are seen as fake elves by sun elves and evil murderers by the star elves, moon elves accept them as elven brethren, even if they are vengeful.
+	name="STATE_296"
+	provinces={
+		297 1248 2120 2196 2467 2518 2759 6574 6782 7257 7452 7482 9071 9733 10225 13336 13369 13408 13418 13450 13456 13491 13492 13523 13542 13565 13566 13589 13813 
+	}
+	manpower=670000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=MEV
+		owner=MEV
+		victory_points={
+			297 20
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+}

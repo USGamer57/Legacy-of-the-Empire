@@ -1,0 +1,26 @@
+state={
+	id=282 #Elves
+	name="STATE_282"
+	provinces={
+		2728 5137 5497 5602 5807 6289 6476 7364 7402 7576 7670 7991 8073 8452 8833 8872 9225 9459 9867 10271 12857 12892 12893 12963 13007 13033 13046 13061 13068 13092 13141 13166 22097 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=MEV
+		owner=MEV
+		victory_points={
+			2728 20
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 2
+		}
+	}
+}

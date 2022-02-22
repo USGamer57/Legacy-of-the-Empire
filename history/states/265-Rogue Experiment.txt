@@ -1,0 +1,26 @@
+state={
+	id=265 #Centaurs, but half-dwarf and half-goat
+	name="STATE_265"
+	provinces={
+		713 907 1106 1442 1660 1669 2459 2504 2617 2635 3072 3228 4091 4228 6380 6571 6681 6833 8228 9293 9339 10187 10779 10805 10836 10846 10871 10876 10887 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history = {
+		add_core_of = RGE
+		owner = RGE
+
+		victory_points = {
+			907 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 0
+		}
+	}
+}

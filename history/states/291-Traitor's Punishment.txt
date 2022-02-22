@@ -1,0 +1,25 @@
+state={
+	id=291 #Labor camp for elves convicted of treason against the "Lightbringer". Non-elves are expelled, for now.
+	name="STATE_291"
+	provinces={
+		2154 2915 3306 3922 4886 5975 6338 6844 7391 7692 7891 9374 9574 10135 13776 13816 13853 13880 13902 13918 13936 13954 13966 14011 14040 14080 14086 14100 14110 14130 14141 14208 
+	}
+	manpower=100 #Low population makes it to where there is no recruits among the prisoners.
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=SNE
+		owner=SNE
+		victory_points={
+			3306 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 10
+			industrial_complex = 10
+		}
+	}
+}

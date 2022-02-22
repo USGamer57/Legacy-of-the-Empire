@@ -1,0 +1,26 @@
+state={
+	id=298 #Elven. Moon elves have typically been more accepting of half-elves than others. But they are tainted by human blood according to their leader, so they must go.
+	name="STATE_298"
+	provinces={
+		263 2351 2588 3397 4134 5389 6254 6964 8280 9252 12412 12443 12464 12480 12517 12550 12584 12585 12670 12715 12728 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=MEV
+		owner=MEV
+		victory_points={
+			263 15
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+}

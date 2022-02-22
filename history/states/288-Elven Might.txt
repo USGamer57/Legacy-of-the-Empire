@@ -1,0 +1,25 @@
+state={
+	id=288 #Elven
+	name="STATE_288"
+	provinces={
+		1236 1545 1905 5335 5667 6347 6769 7910 9340 12542 12637 12894 13131 13132 13178 13214 13222 13286 
+	}
+	manpower=75000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history={
+		add_core_of=SNE
+		owner=SNE
+		victory_points={
+			13286 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			arms_factory = 0
+			industrial_complex = 0
+		}
+	}
+}

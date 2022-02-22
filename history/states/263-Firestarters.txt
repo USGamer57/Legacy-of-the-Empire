@@ -1,0 +1,26 @@
+state={
+	id=263 #Orcs
+	name="STATE_263"
+	provinces={
+		542 1009 2416 4504 4609 4682 4863 4993 5331 5556 6468 6615 10494 10503 10532 10571 10633 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history = {
+		add_core_of = FRS
+		owner = FRS
+
+		victory_points = {
+			1009 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 0
+		}
+	}
+}

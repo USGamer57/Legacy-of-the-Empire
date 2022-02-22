@@ -1,0 +1,26 @@
+state={
+	id=277 #Centaurs
+	name="STATE_277"
+	provinces={
+		1061 2417 3470 3984 5704 5855 5967 5974 7055 7250 7390 7683 7849 8063 8148 8502 9040 9052 9393 9662 9834 9838 9953 10526 10575 10592 10640 10648 10649 10695 10724 10741 10742 10754 10782 10785 10799 16628 16631 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = GPS
+		owner = GPS
+
+		victory_points = {
+			2417 10
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+}

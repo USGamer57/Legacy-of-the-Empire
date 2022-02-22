@@ -1,0 +1,26 @@
+state={
+	id=261 #Orcs
+	name="STATE_261"
+	provinces={
+		919 1013 1026 1131 1304 1316 1635 2714 4500 4804 5135 5845 6311 6564 7461 7464 9541 9808 10296 10297 10322 10344 10379 10390 10407 10409 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history = {
+		add_core_of = HKT
+		owner = HKT
+
+		victory_points = {
+			919 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 0
+		}
+	}
+}

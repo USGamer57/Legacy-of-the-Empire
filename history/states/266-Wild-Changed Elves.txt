@@ -1,0 +1,26 @@
+state={
+	id=266 #Centaurs, but half-elf half-deer
+	name="STATE_266"
+	provinces={
+		540 579 625 739 910 1352 1926 2073 2829 3899 4025 4078 4721 4789 4813 5174 5360 5559 6614 6639 6823 7355 8169 8571 8684 8896 8907 9208 9357 10299 10300 10338 10367 10405 10465 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history = {
+		add_core_of = WCE
+		owner = WCE
+
+		victory_points = {
+			540 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 0
+		}
+	}
+}

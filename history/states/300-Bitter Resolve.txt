@@ -1,0 +1,26 @@
+state={
+	id=300 #Elves
+	name="STATE_300"
+	provinces={
+		794 1116 1929 3278 3301 3385 5958 6264 7171 7240 7609 7815 8797 9625 9727 13113 13130 13198 13258 13284 13305 13357 13368 13444 13480 13657 13750 13810 13851 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history={
+		add_core_of=MEV
+		owner=MEV
+		victory_points={
+			1116 5
+		}
+		
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+}

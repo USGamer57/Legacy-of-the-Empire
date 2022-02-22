@@ -1,0 +1,26 @@
+state={
+	id=268 #Orcs
+	name="STATE_268"
+	provinces={
+		574 2484 3093 3245 3503 4147 4690 5032 5696 5791 6182 6252 7005 8005 8106 8454 8522 8773 9915 10298 10323 10335 10342 10356 10377 10386 22090 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = ICB
+		owner = ICB
+
+		victory_points = {
+			574 20
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+}

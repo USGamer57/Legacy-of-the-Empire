@@ -1,0 +1,26 @@
+state={
+	id=301 #Elven city renamed after the leader's title "Moonsavior"
+	name="STATE_301"
+	provinces={
+		872 1255 2788 5705 6595 7255 7526 7537 7740 7926 8023 8097 8754 9096 9153 9560 9628 13629 13658 13686 13697 13733 13770 13775 13784 13824 13845 13885 13908 13952 13980 13996 14033 14049 14107 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=MEV
+		owner=MEV
+		victory_points={
+			872 20
+		}
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 5
+		}
+	}
+}

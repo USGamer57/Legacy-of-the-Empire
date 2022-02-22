@@ -1,0 +1,26 @@
+state={
+	id=320 #Orcs with a vengeance against the centaurs for killing their ancestors.
+	name="STATE_320"
+	provinces={
+		213 232 308 436 925 1095 2541 2779 4153 5084 5127 5241 7173 8156 8519 9068 9385 9485 10455 10476 10489 10498 10502 10542 10562 
+	}
+	manpower=760000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = WOL
+		owner = WOL
+
+		victory_points = {
+			213 10
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 3
+			industrial_complex = 1
+		}
+	}
+}

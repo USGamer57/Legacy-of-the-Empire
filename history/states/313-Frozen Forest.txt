@@ -1,0 +1,17 @@
+state={
+	id=313 #Impassable Wasteland. Technically, a few centaurs survive in the wasteland.
+	name="STATE_313"
+	provinces={
+		24 184 348 367 422 799 1041 1365 1386 1416 1869 2107 2144 2709 3886 4427 4812 5045 5107 6221 6907 6950 6993 7841 10008 10146 10301 10302 10303 10304 10326 10345 10351 10400 10434 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+
+	impassable = yes
+
+	history = {
+		
+	}
+}

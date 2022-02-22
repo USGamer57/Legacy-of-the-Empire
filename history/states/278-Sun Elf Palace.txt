@@ -1,0 +1,26 @@
+state={
+	id=278 #Elves
+	name="STATE_278"
+	provinces={
+		970 1799 3270 3681 3955 7310 7778 7985 8225 8249 8999 9085 13582 13611 13667 13723 13786 13791 13838 22089 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=SNE
+		owner=SNE
+		victory_points={
+			970 50
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 10
+			industrial_complex = 10
+			air_base = 6
+		}
+	}
+}

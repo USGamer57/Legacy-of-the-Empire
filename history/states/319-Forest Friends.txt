@@ -1,0 +1,26 @@
+state={
+	id=319 #Centaurs who are allied with Wild-Changed Elves
+	name="STATE_319"
+	provinces={
+		23 1433 1653 2170 3171 3348 4031 4379 5134 5836 6006 7354 7813 8054 10432 10446 10461 10477 10506 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history = {
+		add_core_of = FRF
+		owner = FRF
+
+		victory_points = {
+			23 5
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 0
+		}
+	}
+}

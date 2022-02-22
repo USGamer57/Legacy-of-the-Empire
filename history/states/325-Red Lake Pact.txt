@@ -1,0 +1,26 @@
+state={
+	id=325 #Centaurs who wish to paint the lake red with their enemies.
+	name="STATE_325"
+	provinces={
+		2190 2970 3099 3693 4352 4947 5352 5878 6015 6503 7099 7165 7964 8187 8340 9227 9651 9856 11047 11103 11120 11132 11158 11176 11180 11192 11222 16639 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = RLP
+		owner = RLP
+
+		victory_points = {
+			3099 15
+		}
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+		}
+	}
+}

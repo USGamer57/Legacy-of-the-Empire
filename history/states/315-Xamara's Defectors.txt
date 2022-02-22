@@ -1,0 +1,27 @@
+state={
+	id=315 #Centaurs who defected from the southern horde. They seek to civilize and coexist with others.
+	name="STATE_315"
+	provinces={
+		271 330 424 1015 1137 5826 6197 7496 9656 10478 10484 10514 10518 10607 22126 
+	}
+	manpower=900000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+
+	history = {
+		add_core_of = XAM
+		owner = XAM
+
+		victory_points = {
+			271 30
+		}
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+}

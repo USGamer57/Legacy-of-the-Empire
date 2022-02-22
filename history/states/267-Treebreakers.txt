@@ -1,0 +1,26 @@
+state={
+	id=267 #Orcs
+	name="STATE_267"
+	provinces={
+		567 1366 1787 1829 1844 2280 2339 2646 2695 3687 3971 4541 7472 7831 7929 7978 8366 8498 8625 8762 10487 10488 10547 10561 10568 10610 22075 
+	}
+	manpower=750000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+
+	history = {
+		add_core_of = TRB
+		owner = TRB
+
+		victory_points = {
+			1787 5
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

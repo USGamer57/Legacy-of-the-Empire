@@ -1,0 +1,26 @@
+state={
+	id=292 #Elves. Hometown of Cylesia Lightbringer and home of Global Purification. The first to suffer under her reign.
+	name="STATE_292"
+	provinces={
+		517 797 1925 2767 3858 4846 6153 6211 7230 7285 7782 8553 9131 14358 14375 14386 14387 14425 14447 14448 14459 14479 14480 14485 14486 14505 14509 14524 14532 14543 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+
+	history={
+		add_core_of=SNE
+		owner=SNE
+		victory_points={
+			517 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 2
+		}
+	}
+}

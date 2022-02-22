@@ -1,0 +1,26 @@
+state={
+	id=322 #Centaurs who shoot enough arrows to blot out the sky.
+	name="STATE_322"
+	provinces={
+		198 861 1208 2692 2914 3615 4117 4391 4661 4865 5270 5829 6061 8132 8157 10467 10495 10550 10572 10626 10663 10699 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+
+	history = {
+		add_core_of = BKS
+		owner = BKS
+
+		victory_points = {
+			198 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 0
+		}
+	}
+}

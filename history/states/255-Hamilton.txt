@@ -1,0 +1,27 @@
+state={
+	id=255
+	name="STATE_255"
+	provinces={
+		605 750 888 896 1588 1612 4144 5567 6304 6345 6479 6672 9558 9621 9935 11546 11551 11657 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history = {
+		add_core_of = UFN
+		owner = UFN
+
+		victory_points = {
+			605 20
+		}
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 0
+			industrial_complex = 5
+			air_base = 1
+		}
+	}
+}

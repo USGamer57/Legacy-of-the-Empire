@@ -1,0 +1,26 @@
+state={
+	id=280 #Elves
+	name="STATE_280"
+	provinces={
+		3079 5525 7291 7414 7532 9705 11843 11985 22135 22137 22138 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=megalopolis
+
+	history={
+		add_core_of=STE
+		owner=STE
+		victory_points={
+			7414 50
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 7
+			industrial_complex = 7
+			air_base = 4
+		}
+	}
+}

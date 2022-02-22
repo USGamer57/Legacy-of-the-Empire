@@ -1,0 +1,26 @@
+state={
+	id=289 #Elven. Planned Sun Elven city created by their dictator.
+	name="STATE_289"
+	provinces={
+		2462 3273 4466 7559 7562 8616 8717 8803 9328 12638 12758 12819 12829 12839 12909 12925 12944 12977 12983 12984 13008 13069 13093 13133 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+
+	history={
+		add_core_of=SNE
+		owner=SNE
+		victory_points={
+			8616 20
+		}
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 3
+		}
+	}
+}

@@ -1,0 +1,31 @@
+ideas = {
+
+	country = {
+		human_nation = {
+			picture = human_nation
+			
+			allowed = {
+				always = no
+			}
+			
+			available = {
+				
+			}
+			
+			cancel = {
+			
+			}
+			
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			modifier = {
+				army_org_regain = 0.05
+				attrition = -0.1
+				female_random_army_leader_chance = 0.5
+				female_random_admiral_chance = 0.5
+			}
+		}
+	}
+}

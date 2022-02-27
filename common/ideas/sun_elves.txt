@@ -1,0 +1,33 @@
+ideas = {
+	country = {
+		elven_nation = {
+			picture =
+			
+			allowed = {
+				always = no
+			}
+			
+			available = {
+				
+			}
+			
+			cancel = {
+			
+			}
+			
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			modifier = {
+				conscription_factor = -0.5
+				experience_loss_factor = -0.7
+				army_attack_factor = 0.3
+				army_defense_factor = 0.3
+				army_core_defense_factor = 0.3
+				female_random_army_leader_chance = 0.5
+				female_random_admiral_chance = 0.5
+			}
+		}
+	}
+}

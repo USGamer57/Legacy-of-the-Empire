@@ -1,0 +1,117 @@
+characters={
+	SOL_vincente_faugno={
+		name=SOL_VINCENTE_FAUGNO
+		portraits={
+			civilian={
+				large="GFX_portrait_benito_mussolini"
+			}
+		}
+		country_leader={
+			ideology=restorationism
+			traits = { dictator reclaimer }
+			expire="1972.2.17"
+			desc = SOL_VINCENTE_FAUGNO_DESC
+			id=-1
+		}
+	}
+	SOL_basilia_grandi={
+		name="Basilia Grandi"
+		gender = female
+		portraits={
+			civilian={
+				large=""
+			}
+		}
+		advisor={
+			slot=theorist
+			ledger = army
+			allowed = {
+				original_tag = SOL
+			}
+			traits = {
+				mobile_warfare_expert
+			}
+		}
+		
+		field_marshal={
+			traits={ armor_officer offensive_doctrine brilliant_strategist }
+			skill=5
+			attack_skill=5
+			defense_skill=2
+			planning_skill=4
+			logistics_skill=3
+			#legacy_id=1
+		}
+	}
+	SOL_gandolfo_pompilio={
+		name="Gandolfo Pompilio"
+		portraits={
+			civilian={
+				large=""
+			}
+		}
+		advisor={
+			slot = political_advisor
+		#	idea_token = earl_browder
+			allowed  = {
+				original_tag  = SOL
+			}
+			available  = {
+				has_government=fascism
+			}
+			traits = {
+				prince_of_terror
+			}
+#			do_effect = {
+#				NOT = {
+#					has_government = fascism
+#				}
+#			}
+			ai_will_do = {
+				factor = 1.0
+			}
+		}
+		field_marshal={
+			traits={ defensive_doctrine infantry_leader }
+			skill=5
+			attack_skill=2
+			defense_skill=5
+			planning_skill=3
+			logistics_skill=4
+		#	legacy_id=1
+		}
+	}
+	SOL_terzo_d_alesandro={
+		name="Terzo D' Alesandro"
+		portraits={
+			civilian={
+				large=""
+			}
+		}
+		corps_commander={
+			traits={}
+			skill=5
+			attack_skill=4
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=4
+		}
+	}
+	SOL_gemma_di_tullio={
+		name="Gemma di Tullio"
+		gender=female
+		portraits={
+			civilian={
+				large=""
+			}
+		}
+		corps_commander={
+			traits={}
+			skill=4
+			attack_skill=3
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=2
+		}
+	}
+}

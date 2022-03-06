@@ -1,0 +1,49 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_human_nation"
+		texturefile = "gfx/interface/ideas/idea_human_nation.dds"
+#		noOfFrames = 17
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_elven_nation"
+		texturefile = "gfx/interface/ideas/idea_elven_nation.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_dwarven_nation"
+		texturefile = "gfx/interface/ideas/idea_dwarven_nation.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_halfling_nation"
+		texturefile = "gfx/interface/ideas/idea_halfling_nation.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_orcish_nation"
+		texturefile = "gfx/interface/ideas/idea_orcish_nation.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_wolfman_nation"
+		texturefile = "gfx/interface/ideas/idea_wolfman_nation.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_centaur_nation"
+		texturefile = "gfx/interface/ideas/idea_centaur_nation.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_jaguarian_nation"
+		texturefile = "gfx/interface/ideas/idea_jaguarian_nation.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_merfolk_navy"
+		texturefile = "gfx/interface/ideas/idea_merfolk_navy.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_crimson_raiders"
+		texturefile = "gfx/interface/ideas/idea_crimson_raiders.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_wasteland_unifier"
+		texturefile = "gfx/interface/ideas/idea_wasteland_unifier.dds"
+	}
+}
